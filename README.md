@@ -1,10 +1,12 @@
+# Fork aus der Vorlesung
+
 # App Akademie Task App
 
 ## Setup
 
 [Video-Tutorial](https://www.youtube.com/watch?v=93HmNNzbYfg)
 
-⚠️ Please ***fork*** the app in GitHub before cloning it to your computer.
+⚠️ Please **_fork_** the app in GitHub before cloning it to your computer.
 
 ## How to solve a task
 
@@ -13,6 +15,7 @@ To solve a task follow these steps:
 1. Pull the latest version with Git
 
 2. Check the task list (in `lib/tasks/task_list.dart`) for tasks with no solution.
+
 ```dart
 Task(
     taskModel: t_3_1_1,
@@ -21,6 +24,7 @@ Task(
 ```
 
 3. Uncomment the line that assigns a solution
+
 ```dart
 Task(
     taskModel: t_3_1_1,
@@ -34,7 +38,7 @@ Task(
 
 ## How to update the app
 
-### GitHub 
+### GitHub
 
 Press the "Sync fork" button on GitHub.
 
